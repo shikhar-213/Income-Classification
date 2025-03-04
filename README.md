@@ -25,6 +25,7 @@ This dataset is represented as 31978 x 13 in matrix form.
 | hoursperweek	| Continuous |
 | nativecountry	| Categorical |
 | SalStatus	| Categorical |
+
 Before preparing the data for input into machine learning models, various quality and consistency checks were conducted using Python's Pandas library. Several null values were identified and removed from the dataset. The remaining data was deemed clean and ready for further processing.
 
 ## Executive Summary: -
