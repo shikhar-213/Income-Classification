@@ -9,7 +9,7 @@ Visualizations and other key metrics can be found here.
 
 ## Data Structure: -
 We were given the dataset in CSV format named income.csv. This dataset holds 31,978 entries with 12 features and one output variable (i.e. the personal income of individuals).
-This dataset is represented as 31978 x 13 in matrix form.
+This dataset is represented as 31978 x 13 in matrix form. You can get this dataset from [here](https://www.kaggle.com/datasets/lodetomasi1995/income-classification)
 | Attribute Name  | Data Type  |
 |-----------|-----------|
 | age	| Continuous |
