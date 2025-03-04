@@ -31,7 +31,7 @@ Before preparing the data for input into machine learning models, various qualit
 ## Executive Summary: -
 While visualizing the data, some features did not impact the output variable very much, although they were making the model more complex.
 It was found that removing these insignificant variables did not affect the models’ accuracies. Hence, they were dropped from the dataset to reduce the models’ complexity. Below is the bar graph showing that there is no significant change in accuracies of all three models even after removing insignificant features.
-Visualization charts and other key metrics can be found here.
+Visualization charts and other key metrics can be found [here](visualization_charts_income.pdf).
 
 ![image](https://github.com/user-attachments/assets/4d5e076b-15a4-4dbc-a91d-cb5e8ead1901)
 
